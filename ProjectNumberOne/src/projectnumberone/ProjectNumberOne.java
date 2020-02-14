@@ -16,6 +16,7 @@ public class ProjectNumberOne {
      */
     public static void main(String[] args) {
         System.out.println("Project Number One");
+        System.out.println("This is a new print line");
     }
     
 }
